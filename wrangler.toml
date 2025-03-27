@@ -1,0 +1,8 @@
+name = "tg-auto-comment"
+main = "index.js"
+compatibility_date = "2025-03-27"
+
+[vars]
+BOT_TOKEN = "" # 你的Bot Token
+CHANNEL_ID = "" # 你的频道ID
+COMMENT_TEXT = "" # 要发送的评论文本
